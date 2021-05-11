@@ -1,0 +1,49 @@
+/* Utilities */
+.center-text{
+    text-align: center;
+}
+.margin-top20px{
+    margin: 20px 0;
+}
+
+
+/* Body Styling */
+html,body{
+    background: url(img/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Main Styling */
+.container{
+    width: 70%;
+    margin: 0 auto;
+
+
+}
+
+header{
+    margin: 20px 0;
+}
+
+/* Form Styling */
+.form-container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+/* noteBox styling */
+.note-box{
+    height: 283px;
+    width: 283px;
+    background: url(img/note.png) no-repeat;
+    margin:10px auto;
+}
+
+.note-box p{
+    position: relative;
+    top: 20%;
+}
